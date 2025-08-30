@@ -45,10 +45,10 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivam-prasad">
+  <a href="https://www.linkedin.com/in/shivam-prasad-8894782b6/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/shivam-prasad">
+  <a href="https://github.com/Shiv-prasad-coder">
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -62,4 +62,4 @@
 </p>
 
 ---
-⭐️ From [Shivam Prasad](https://github.com/shivam-prasad)
+⭐️ From [Shivam Prasad](https://github.com/Shiv-prasad-coder)
